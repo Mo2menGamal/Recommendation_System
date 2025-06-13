@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import pickle
 import json
+import os
 
 # Setup
 app = Flask(__name__)
@@ -77,6 +78,15 @@ def recommend():
             json.dumps({"error": str(e)}, ensure_ascii=False),
             content_type="application/json"
         )
+
+def handler(request):
+    with app.test_request_context(
+        path=request.path,
+        method=request.method,
+        headers=dict(request.headers),
+        data=request.body
+    ):
+        return recommend()
 
 if __name__ == "__main__":
     app.run(debug=True)
