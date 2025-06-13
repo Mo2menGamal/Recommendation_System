@@ -1,0 +1,26 @@
+name,location,type,capacity,tags,features
+"""Grand Sea Rena""",Alexandria,Hall,500,Elegant|Spacious|Ballroom|Grand|Chandeliers|Lighting,Elegant Spacious Ballroom Grand Chandeliers LightingHallAlexandria
+"""قاعات حفلات الفتح بلازا""",Alexandria,Hall,450,Luxurious|Elegant|Spacious|Formal|Glamorous|Chandeliers,Luxurious Elegant Spacious Formal Glamorous ChandeliersHallAlexandria
+"""قصر دهب للحفلات""",Alexandria,Hall,200,Gold|Traditional|Ornate|Banquet,Gold Traditional Ornate BanquetHallAlexandria
+"""Royal Lamour Elite""",Alexandria,Hall,400,Chic|Ballroom|Luxurious|Elegant,Chic Ballroom Luxurious ElegantHallAlexandria
+"""قاعة أفراح الزهراء""",Alexandria,Hall,700,Ballroom|Expansive|Grand|Luxurious|Lighting,Ballroom Expansive Grand Luxurious LightingHallAlexandria
+"""Royal Hall""",Alexandria,Hall,400,Royal|Gold|Traditional|Ballroom|Ornate,Royal Gold Traditional Ballroom OrnateHallAlexandria
+"""Acacia Events""",Alexandria,Hall|Outdoor,500,Garden|Modern|Elegant|Chic|Outdoor|Openair,Garden Modern Elegant Chic Outdoor OpenairHall OutdoorAlexandria
+"""قاعة ساندي للأفراح""",Alexandria,Hall,400,Modern|Ballroom|Spacious|Ambient,Modern Ballroom Spacious AmbientHallAlexandria
+"""قاعة دنيتي""",Alexandria,Hall,300,Modern|Ballroom|Blue|Ambient|Intimate,Modern Ballroom Blue Ambient IntimateHallAlexandria
+"""قصر الأميرات""",Alexandria,Hall,400,Modern|Ballroom|Spacious|Ambient|Gold|Ornate,Modern Ballroom Spacious Ambient Gold OrnateHallAlexandria
+"""Royal Palace Hall""",Alexandria,Hall,400,Modern|Ballroom|Spacious|Ambient|Gold|Ornate|Traditional,Modern Ballroom Spacious Ambient Gold Ornate TraditionalHallAlexandria
+"""Sea Garden Open Air Hall""",Alexandria,Outdoor,700,Garden|Modern|Elegant|Chic|Outdoor|Openair|Seaside,Garden Modern Elegant Chic Outdoor Openair SeasideOutdoorAlexandria
+"""Royal Lamour Garden""",Alexandria,Outdoor,450,Tented|Outdoor|Garden|Turf|Elegant|Chic|Openair,Tented Outdoor Garden Turf Elegant Chic OpenairOutdoorAlexandria
+"""هيفنز بلازا Heavens plaza""",Alexandria,Outdoor,400,Tented|Outdoor|Garden|Turf|Elegant|Chic|Openair,Tented Outdoor Garden Turf Elegant Chic OpenairOutdoorAlexandria
+"""Le Garden Wedding Hall""",Alexandria,Outdoor,500,Glasshouse|Garden|Tented|Turf|Spacious|Modern|Openair,Glasshouse Garden Tented Turf Spacious Modern OpenairOutdoorAlexandria
+"""Mirage Hall""",Alexandria,Hall,500,Ballroom|Crystal|Grand|Luxurious|Lighting,Ballroom Crystal Grand Luxurious LightingHallAlexandria
+"""قاعة اللؤلؤة""",Kafr El-Dawar,Hall,400,Vibrant|Pillared|Crystal|Ballroom|Traditional,Vibrant Pillared Crystal Ballroom TraditionalHallKafr El-Dawar
+"""فينوس""",Kafr El-Dawar,Hall,600,Vibrant|Pillared|Crystal|Ballroom|Traditional,Vibrant Pillared Crystal Ballroom TraditionalHallKafr El-Dawar
+"""Orchid Hall""",Kafr El-Dawar,Hall,350,Vibrant|Pillared|Crystal|Ballroom|Traditional,Vibrant Pillared Crystal Ballroom TraditionalHallKafr El-Dawar
+"""قاعة ريچنسى للحفلات والمؤتمرات""",Kafr El-Dawar,Hall,500,Vibrant|Pillared|Crystal|Ballroom|Traditional,Vibrant Pillared Crystal Ballroom TraditionalHallKafr El-Dawar
+"""La Mer Royal Wedding""",Kafr El-Dawar,Hall,600,Vibrant|Pillared|Crystal|Ballroom|Traditional|Royal|Gold,Vibrant Pillared Crystal Ballroom Traditional Royal GoldHallKafr El-Dawar
+"""قاعة موون لايت""",Kafr El-Dawar,Hall,400,Vibrant|Pillared|Crystal|Ballroom|Traditional,Vibrant Pillared Crystal Ballroom TraditionalHallKafr El-Dawar
+"""جراند رويال""",Damanhour,Hall,400,Ballroom|Chandelier|Staged|Vibrant,Ballroom Chandelier Staged VibrantHallDamanhour
+"""قاعة مارفيلا دمنهور""",Damanhour,Hall,550,Ballroom|Ornate|Chandelier|Staged|Vibrant,Ballroom Ornate Chandelier Staged VibrantHallDamanhour
+"""Kian weeding hall""",Damanhour,Hall,600,Ballroom|Chandelier|Staged|Vibrant|Floral|Grand,Ballroom Chandelier Staged Vibrant Floral GrandHallDamanhour

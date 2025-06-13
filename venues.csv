@@ -1,0 +1,26 @@
+name,location,type,capacity,tags
+"""Grand Sea Rena""",Alexandria,Hall,500,Elegant|Spacious|Ballroom|Grand|Chandeliers|Lighting
+"""قاعات حفلات الفتح بلازا""",Alexandria,Hall,450,Luxurious|Elegant|Spacious|Formal|Glamorous|Chandeliers
+"""قصر دهب للحفلات""",Alexandria,Hall,200,Gold|Traditional|Ornate|Banquet
+"""Royal Lamour Elite""",Alexandria,Hall,400,Chic|Ballroom|Luxurious|Elegant
+"""قاعة أفراح الزهراء""",Alexandria,Hall,700,Ballroom|Expansive|Grand|Luxurious|Lighting
+"""Royal Hall""",Alexandria,Hall,400,Royal|Gold|Traditional|Ballroom|Ornate
+"""Acacia Events""",Alexandria,Hall|Outdoor,500,Garden|Modern|Elegant|Chic|Outdoor|Openair
+"""قاعة ساندي للأفراح""",Alexandria,Hall,400,Modern|Ballroom|Spacious|Ambient
+"""قاعة دنيتي""",Alexandria,Hall,300,Modern|Ballroom|Blue|Ambient|Intimate
+"""قصر الأميرات""",Alexandria,Hall,400,Modern|Ballroom|Spacious|Ambient|Gold|Ornate
+"""Royal Palace Hall""",Alexandria,Hall,400,Modern|Ballroom|Spacious|Ambient|Gold|Ornate|Traditional
+"""Sea Garden Open Air Hall""",Alexandria,Outdoor,700,Garden|Modern|Elegant|Chic|Outdoor|Openair|Seaside
+"""Royal Lamour Garden""",Alexandria,Outdoor,450,Tented|Outdoor|Garden|Turf|Elegant|Chic|Openair
+"""هيفنز بلازا Heavens plaza""",Alexandria,Outdoor,400,Tented|Outdoor|Garden|Turf|Elegant|Chic|Openair
+"""Le Garden Wedding Hall""",Alexandria,Outdoor,500,Glasshouse|Garden|Tented|Turf|Spacious|Modern|Openair
+"""Mirage Hall""",Alexandria,Hall,500,Ballroom|Crystal|Grand|Luxurious|Lighting
+"""قاعة اللؤلؤة""",Kafr El-Dawar,Hall,400,Vibrant|Pillared|Crystal|Ballroom|Traditional
+"""فينوس""",Kafr El-Dawar,Hall,600,Vibrant|Pillared|Crystal|Ballroom|Traditional
+"""Orchid Hall""",Kafr El-Dawar,Hall,350,Vibrant|Pillared|Crystal|Ballroom|Traditional
+"""قاعة ريچنسى للحفلات والمؤتمرات""",Kafr El-Dawar,Hall,500,Vibrant|Pillared|Crystal|Ballroom|Traditional
+"""La Mer Royal Wedding""",Kafr El-Dawar,Hall,600,Vibrant|Pillared|Crystal|Ballroom|Traditional|Royal|Gold
+"""قاعة موون لايت""",Kafr El-Dawar,Hall,400,Vibrant|Pillared|Crystal|Ballroom|Traditional
+"""جراند رويال""",Damanhour,Hall,400,Ballroom|Chandelier|Staged|Vibrant
+"""قاعة مارفيلا دمنهور""",Damanhour,Hall,550,Ballroom|Ornate|Chandelier|Staged|Vibrant
+"""Kian weeding hall""",Damanhour,Hall,600,Ballroom|Chandelier|Staged|Vibrant|Floral|Grand
